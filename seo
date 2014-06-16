@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-US">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="google-site-verification" content="---this portion still needs to be completeded but has to be completed once we are live---">
+		<meta name="readability-verification" content="---this portion still needs to be completeded but has to be completed once we are live---">
+
+		<!-- open graph tags -->
+		<meta property="og:site_name" content="repMiami">
+        <meta name="copyright" content="copyright © 2014 repMiami, associated with Code for Miami, chapter of Code for America." />
+		
+			<meta property="og:title" content="repMiami">
+			<meta property="og:description" content="Finding your local representatives for you, in Miami-Dade, miami dade county commissionaers, miami dade county officials.">
+			<meta property="og:type" content="non_profit">
+			<meta property="og:url" content="http://codeformiami.org/rep-miami/">
+			<meta property="og:email" content="repmiami@gmail.com">
+			<meta property="og:image" content="http://codeformiami.org/rep-miami/images/repMiamiLogo.png">
+			<meta property="og:locale" content="en_US">
+			<meta name="viewport" content="width=device-width" />
+		
+    <meta name="description" content="Finding your representatives for you, in Miami-Dade.">
+	</head>
+
+		<title>repMiami</title>
+
+		<link rel="shortcut icon" href="/favicon.ico">
+		<!--<link rel="author" href="/humans.txt">-->
+		<link rel="mission" href="http://rep-miami.appspot.com/about">
+        
+</html>
